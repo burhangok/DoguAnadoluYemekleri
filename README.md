@@ -29,3 +29,6 @@ Uygulamada ki Yemekler
 * Etli Karışık Yaz Dolması
 
 Ayrıca sizlerden gelen talep ve önerilere göre daha fazla tarif eklenecektir.
+
+
+İletişim İçin: burhangok@yahoo.com
