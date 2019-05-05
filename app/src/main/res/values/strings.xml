@@ -1,0 +1,301 @@
+<resources>
+    <string name="app_name">Doğu Anadolu Yemekleri</string>
+
+    <string name="food1">İÇLİ KÖFTE</string>
+    <string name="food1M">
+2 su bardağı ince bulgur (500 gr)\n
+250 gr çiğköftelik dana kıyma\n
+1 çay fincanı irmik\n
+1 yumurta\n
+Kızartmak için sıvıyağ\n
+Tuz\n
+Karabiber\n
+Kırmızı pulbiber\n\n
+
+        İç Malzeme\n\n
+
+500 gr az yağlı kıyma\n
+5 soğan\n
+2 çorba kaşığı margarin\n
+1 çay bardağı iri kıyılmış ceviz veya antepfıstığı\n
+Tuz\n
+Karabiber\n
+Kırmızı pulbiber\n
+1 çorba kaşığı biber salçası\n
+
+
+    </string>
+
+    <string name="food1C">
+
+
+Köftenin iç malzemesini hazırlamak için, soğanları soyup doğrayın. Kıymayı tavada kavurun. Margarin ve soğanı ilave edip karıştırarak kavurun. Tuz, salça, baharat ve cevizi ekleyip ocaktan alın. Soğumaya bırakın.\n\n
+
+Bulguru tepsiye alın. İrmiği ilave edip 1 avuç su serpip ıslatın. Kıymayı tepsinin diğer yarısına alın. Tuz ve baharatları serpin. \n\n
+
+Bulguru azar azar kıymaya ilave edip birbirine yedirinceye kadar yoğurun. Ceviz büyüklüğünde bir parça koparıp elinizle yuvarlayarak top haline getirin. İşaret parmağının yardımı ile avuç içinde döndürerek bu toplardan içi oyuk, bir tarafı açık kubbeler hazırlayın. Ortasına iç malzemeden doldurup köfteyi yavaş yavaş çevirerek açık tarafı kapatın. Malzeme bitinceye kadar işleme devam edin. \n\n
+
+Sıvıyağı tavada kızdırın. Hazırladığınız köfteleri fazla kararmayacak şekilde kızartıp servis tabağına alın. Maydanoz yaprakları ve limon dilimleri ile sıcak servis yapın.\n
+Afiyet Olsun.
+
+    </string>
+
+
+    <string name="food2">CİĞER TAPLAMASI</string>
+
+    <string name="food2M">
+
+        1 koyun ciğeri\n
+        4 su bardağı ince bulgur\n
+        Tuz\n
+        Karabiber\n
+        1 tatlı kaşığı reyhan otu\n
+        1 tatlı kaşığı kırmızı tozbiber\n
+        3-4 çorba kaşığı tereyağı\n
+
+    </string>
+
+
+    <string name="food2C">
+
+Koyun ciğerini ince ince kıyın ya da kıyma makinasında çekin bulguru ekleyip iyice yoğurun. Tuz, karabiber ve reyhanotu ilave edip köfte hamuru haline getirin. \n
+
+Köfte harcından ceviz büyüklüğünde parçalar alıp elinizde yuvarlayın. Yassılaştırarak 1 cm kalınlığında köfteler yapın. Köfteleri 20-25 dakika dinlendirin. Bir tencereye su doldurup kaynatın. Köfteleri kaynar suda pişirip süzgeçle servis tabağına alın.\n\n
+
+Tereyağını küçük bir tavada eritin. Kırmızı tozbiberi ekleyip kızdırın. Köftelerin üzerine gezdirip sıcak olarak servis yapın.\n
+
+Afiyet olsun.
+
+
+    </string>
+
+
+    <string name="food3">KÜT / KÜRT BÖREĞİ</string>
+
+    <string name="food3M">
+
+        1 paket kabartma tozu\n
+1 çay bardağı ayçiçeği yağı\n
+1 çay bardağı yoğurt\n
+2 yumurta\n
+4.5 su bardağı un\n
+200 gr sade yağ\n
+Tuz\n
+    </string>
+
+    <string name="food3C">
+Unu eleyip çukur bir kaba alın. Ortasını havuz şeklinde açıp kabartma tozu, ayçiçeği yağı, yoğurt, tuz ve yumurtayı ekleyip yoğurun (gerekirse ayçiçeği yağı ilavesi yapabilirsiniz). Hamuru 20 eşit bezeye ayırın.\n\n Bezeleri pasta tabağı büyüklüğünde açıp aralarına oda ısısında yumuşatılmış sade yağ sürerek üst üste dizin. Bezelerin hepsini oklavayla yuvarlak bir tepsi büyüklüğünde açın. Üzerine tekrar sade yağ sürüp rulo şekline sarın. Ruloyu üç parçaya kesip buzdolabında 1 saat bekletin. Ruloların kesik kısımlarından bastırıp hamurlara yassı şekil verin. Tepsi büyüklüğünde açıp aralarına sade yağ sürerek tepsiye dizin. Üstteki yufkanın üzerine sade yağ sürüp önceden ısıtılmış 180 derece fırında kızarana kadar pişirin.Küçük dikdörtgen parçalar şeklinde dilimleyin. Üzerine pudra şekeri serpip servis yapın.
+
+    </string>
+
+
+    <string name="food4">BİTLİS KÖFTESİ</string>
+
+
+    <string name="food4M">
+3 soğan\n 1 kahve fincanı sıvıyağ\n
+        1 kahve fincanı pirinç\n
+        3.5 su bardağı su\n
+        Yarım nar\n
+        2 su bardağı ince bulgur\n
+        350 gr iki kez çekilmiş yağsız kıyma\n
+        1 yumurta \n
+        2 tatlı kaşığı tuz Karabiber Kırmızı tozbiber\n
+
+
+
+    </string>\n
+
+
+    <string name="food4C">
+
+Soğanları soyup ince ince doğrayın. Sıvıyağın yarısını tencereye alıp soğanı pembeleştirin. Pirinci yıkayıp süzün. Kavrulmakta olan soğana ekleyip bir iki kez karıştırın 1 bardak kadar sıcak su ve yarım tatlı kaşığı tuz ekleyin, karıştırın. Suyunu çekinceye kadar 10-15 dakika pişirip ocaktan alın. Nar taneleri ve karabiberi ekleyip karıştırın.
+
+\n\nBulguru geniş bir kaba alıp üzerine 1 su bardağı soğuk su serperek ıslatın. Üzerini kapatıp 10 dakika bekletin.
+
+\n\nKıyma, yumurta ve 1 tatlı kaşığı tuzu bulgura ilave edip iyice pekişene kadar 15-20 dakika yoğurun. Top şekline getirin, üzerine nemli bez örtüp 10 dakika bekletin.
+
+\n\nElinizi ıslatarak köfte harcından ceviz büyüklüğünde parçalar koparıp yuvarlayın. Köftelerin ortasını çukurlaştırarak içine hazırladığınız pirinçli karışımdan doldurup içli köfte şeklinde kapatın.
+
+\n\nKalan suyu tencerede kaynatın. Köfteleri delikli süzgece (kevgire) alın. Süzgeci suya değmeyecek şekilde tencerenin üzerine yerleştirip kapağını kapatın. Köfteleri kaynayan suyun buharında 25-30 dakika kadar pişirin.
+
+\n\nKöfteleri servis tabağına alın. Haşlama suyuna kalan yağı ve kırmızı tozbiberi ekleyip birkaç dakika kaynatın.
+
+\n\nSosu köftelerin üzerine gezdirip sıcak olarak servis yapın.
+Afiyet olsun.
+
+
+    </string>
+
+    <string name="food5">KABURGA DOLMASI</string>
+
+
+    <string name="food5M">
+
+2.5 kg kaburga (koyun eti~sağ göğüs kısmı)\n
+250 gr tereyağı\n
+150 gr kabuğu soyulmuş badem içi\n
+300 gr kıyma\n
+1 soğan\n
+750 gr pirinç\n
+2 yemek kaşığı domates salçası\n
+1 demet maydanoz\n
+2 su bardağı sıcak su\n
+Tuz\n
+Kırmızı toz biber\n
+Karabiber\n
+
+
+
+    </string>
+
+
+    <string name="food5C">
+
+
+Pirinci bol suyla yıkayıp suyunu süzün. Kaburganın yağlı kısmından cep şeklinde kesin. Tereyağını tencereye alıp eritin. Badem ve kıymayı ekleyip kavurun. Kıyılmış soğanı ekleyip kavurmaya devam edin. Tencereye alıp birkaç dakika kavurun. Kıyılmış maydanoz, baharat ve tuz ekleyip karıştırın. \n\nSıcak su ekleyip kısık ateşte pirinçler hafifçe yumuşayana kadar pişirin. Hazırladığınız pilavı kaburgaya açtığınız cebe doldurun. Etin ağız kısmını iplikle dikin. Kaburganın her yerine salça sürüp yağda kızartın. Sıcak fırına alıp 2 saat boyunca pişirin. Sıcak servis yapın.
+
+    </string>
+
+
+    <string name="food6">SOĞANİ</string>
+
+    <string name="food6M">
+6 iri soğan\n
+        500 gr kıyma\n
+        1 su bardağı pirin\n
+        ç2 çorba kaşığı tereyağı\n
+        2 çorba kaşığı sıvıyağı\n
+        5 çorba kaşığı biber salçası\n
+        5 çorba kaşığı domates salçası\n
+        Karabiber\n
+Kırmızı pulbiber\n
+        1 su bardağı tane sumak\n
+        Tuz\n
+Nane\n
+Kekik\n
+Kimyon\n
+
+
+    </string>
+
+
+    <string name="food6C">
+Soğanların alt kısımlarını biraz kesip kabuklarını soyun. Bütün olarak sıcak suda haşlayıp süzgece alın. Hafif sıkıp katlarını ayırın. Pirinci bol suyla yıkayıp süzün. Sumağı sıcak suda 15 dakika bekletip süzün.
+
+\n\nTavada tereyağı ve sıvıyağı kızdırın. Salça, tuz ve baharatları ekleyip karıştırın. Tavayı ocaktan alın. Kıyma ve pirinci ilave edip karıştırın.
+
+\n\nHazırladığınız iç malzemeyle soğanları (veya kurutulmuş biber ve patlıcanları) doldurup geniş bir tencereye dizin. Sumak suyunu ekleyin. Su kaynayınca kapağı kapalı olarak kısık ateşte 30 dakika pişirin. Servis tabağına alıp sıcak olarak servis yapın.
+
+\n\nAfiyet olsun.
+    </string>
+
+
+    <string name="food7">KELECOŞ / KELEDOŞ</string>
+
+    <string name="food7M">
+
+250 gr kurufasulye\n
+150 gr yeşil mercimek\n
+150 gr nohut\n
+250 gr yarma buğday\n
+1 kg yoğurt\n
+500 gr kuşbaşı kuzu eti\n
+1 tatlı kaşığı tuz\n
+100 gr tereyağı\n
+100 gr kuru soğan\n
+15 litre su\n
+Sosu için\n
+100 gr kenevir tohumu\n
+250 gr ayçiçeği yağı\n
+    </string>
+
+    <string name="food7C">
+Nohut, kurufasulye, mercimek ve yarma buğdayı akşamdan ıslatın. Kuzu etini orta boy bir tencerede tereyağı ile kavurun. Üzerine suyu ekleyin. Tahılları ve tuzu ilave edip kaynamaya bırakın.
+
+\n\nTahıllar yumuşayınca yoğurdu ilave edip, 5 dakika daha kaynatın ve ocaktan alın. Sos için, bir tavada ayçiçeğiyağı ile kenevir tohumunu kavurun ve üzerine döküp servis yapın.
+
+    </string>
+
+    <string name="food8">TESTİ KEBABI</string>
+
+    <string name="food8M">
+
+1.5 kg orta yağlı koyun eti\n
+2 yemek kaşığı ayçiçeği yağı\n
+1 kg arpacık soğan\n
+Yarım yemek kaşığı domates salçası\n
+2 büyük domates\n
+Sivri biber\n
+Defne yaprağı\n
+Tuz\n
+Kimyon\n
+Karabiber\n
+    </string>
+
+    <string name="food8C">
+
+İri parçalar şeklinde kesilmiş eti yıkayıp süzün. Eti büyük bir kabın içine alın. Arpacık soğanların kabuğunu soyup ete ekleyin. Domatesleri, biberleri iri parçalar şekline doğrayıp malzemeye ekleyin. Salça, tuz, kimyon, karabiber ve ayçiçeği yağını ilave edip karıştırın. Hazırladığınız harcı toprak testiye doldurun. Testinin ağız kısmını hazırladığınız bir hamurla sıkıca kapatın. Sıcak fırında 1.5 saat pişirin. Fırından alıp 20 dakika dinlendirin. Hamuru çıkarıp kebabı servis tabaklarına paylaştırın. Sıcak servis yapın.
+    </string>
+
+
+    <string name="food9">EV HELVASI</string>
+
+    <string name="food9M">
+1 kg un\n
+250 gr tereyağı\n
+1 litre su\n
+1 kg toz şeker\n
+Ufalanmış ceviz içi\n
+
+    </string>
+
+    <string name="food9C">
+
+Su ve şekeri tencereye alıp kaynatın. Şerbet kıvımına geldiğinde tencereyi ocaktan alın. Tereyağını başka tencereye alıp eritin. Hafif fokurdamaya başladığında unu azar azar ekleyip kavurun. Unun rengi değiştiğinde şerbeti azar azar ve sürekli karıştırmaya devam ederek ilave edin.
+        \n\nUn şerbeti tamamen çekene kadar pişirin. Helva hafif ılındığında kaşıkla şekil vererek servis tabağına alın. Üzerine ufalanmış ceviz içi serpip servis yapın.
+
+\n\nAdeta bir geçiş mutfağı özelliği taşıyan Iğdır’ın soğuk kış günlerinde evlerde yapılan ve keyifle yenen tatlısı ev helvası iftar ikramlarınız için iyi bir seçenek olabilir.
+    </string>
+
+    <string name="food10">ETLİ KARIŞIK YAZ DOLMASI</string>
+
+    <string name="food10M">
+
+500 gr pirinç\n
+500 gr orta yağlı kıyma\n
+6 dolmalık küçük patlıcan\n
+6 dolmalık küçük kabak\n
+6 kırmızı dolmalık biber\n
+6 yeşil dolmalık biber\n
+6 domates\n
+3 limonun suyu\n
+2 yemek kaşığı domates salçası\n
+1 yemek kaşığı biber salçası\n
+Yarım çay kaşığı yenibahar\n
+2 orta boy soğan\n
+Tuz\n
+Su\n
+    </string>
+
+
+    <string name="food10C">
+
+        Patlıcan, kabak, domates ve biberleri dolma yapmak için hazır hale getirin. Soğan ve sarımsağı ince doğrayın. İçerisine kıyma, pirinç, domates salçası, biber salçası ve karabiberi ekleyin.
+        \n\n2 limonun suyunu yarım bardak suyla birlikte karışıma ekleyin. Tüm malzemeyi karıştırarak dolma içini hazırlayın. Hazırladığınız içi ebzelerin içine üst kısımlarından ikişer santim  boşluk bırakarak doldurun ve ağzını kapatmak için ağızlarına birer parça domatesi kapak gibi kapatın. Tencereye kabak sonra patlıcan, biber ve domates şeklinde sırayla dizin. Dolmaların en üstüne tencere büyüklüğünde tabak kapatarak 3 su bardağı kaynamış su ve tuz ekleyin. 30 dakika pişirin.
+        \n\nDaha sonra tencerenin üzerindeki tabağı kaldırarak 1 limonun suyunu ekleyin ve 10 dakikada pişirin. Dolmaları suyunu süzerek servis tabağına dizin. Ilık servis yapın.
+
+\n\nNot: Ayran, yeşil salata, kuru soğan ve lavaş pide ile yenilmesi tavsiye edilir.
+    </string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-5903218970036631/4265357269</string>
+    <string name="title_activity_food_detail_acitivity">FoodDetailAcitivity</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>
